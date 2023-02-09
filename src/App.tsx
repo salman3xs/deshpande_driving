@@ -2,6 +2,7 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import Navbar from "./pages/navbar";
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
   return (
