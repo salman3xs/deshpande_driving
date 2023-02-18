@@ -3,11 +3,12 @@ import "/lib/flaticon/font/flaticon.css";
 import "bootstrap/dist/css/bootstrap.css";
 import "/lib/animate/animate.css";
 import HomePage from "./pages/home/home";
+import MainRoutes from "./Routes/main_route";
 
 function App() {
   return (
     <div className="App">
-      <HomePage />
+      <MainRoutes />
     </div>
   );
 }

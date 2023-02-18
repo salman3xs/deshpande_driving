@@ -57,16 +57,6 @@ const Footer: FC = (): JSX.Element => {
               <a href="">FQAs</a>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6">
-            <div className="footer-newsletter">
-              <h2>Newsletter</h2>
-              <form>
-                <input className="form-control" placeholder="Full Name" />
-                <input className="form-control" placeholder="Email" />
-                <button className="btn btn-custom">Submit</button>
-              </form>
-            </div>
-          </div>
         </div>
       </div>
       <div className="container copyright">
