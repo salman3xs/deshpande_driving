@@ -1,13 +1,13 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import Navbar from "./pages/navbar";
 import "./App.css";
+import "/lib/flaticon/font/flaticon.css";
 import "bootstrap/dist/css/bootstrap.css";
+import "/lib/animate/animate.css";
+import HomePage from "./pages/home/home";
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      <HomePage />
     </div>
   );
 }
