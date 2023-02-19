@@ -1,0 +1,30 @@
+//TO DO
+language change
+trainging at highways,cities and traffic areas 
+course 1 for 100km 2 for 200km
+FAQ
+Gallary
+**********after confirmation
+booking time slot
+registraion of new candidate
+
+--Sections
+deploy for testing on firebase == done
+booking time slot == ui done || can be done with email -------isSame
+registraion of new candidate == ui done ||| can be done with email & dont need login
+About(who we are and services) done = homepage + about page || can be combined to decrease pages
+FAQ == done ||| need data || can be added with about
+gallary====reamianig ||| need images can be added on about pages
+contact us = done ||| can be done with email
+feedback ==done || need data isForm
+customer satisfaction |||is same
+customer review == done ||| need data
+office location +  map = done ||| need data
+////Batches m add karna h
+training at highways,cities and traffic areas == remaining
+course 1 for 100km 2 for 200km == remaining || need more data
+blog == done ||| need data
+language change == next target
+chatbot ***
+login reg ****
+privacy policy ***

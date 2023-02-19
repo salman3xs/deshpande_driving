@@ -1,5 +1,6 @@
 import React, { FC } from "react";
 import About from "./components/about";
+import FAQ from "./components/faq";
 
 const AboutPage: FC = (): JSX.Element => {
   return (
@@ -18,6 +19,7 @@ const AboutPage: FC = (): JSX.Element => {
         </div>
       </div>
       <About />
+      <FAQ />
     </div>
   );
 };
